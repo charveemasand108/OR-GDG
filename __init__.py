@@ -1,0 +1,1 @@
+# This file makes the qr_checkin_backend directory a Python package
